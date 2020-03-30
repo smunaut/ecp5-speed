@@ -1,0 +1,8 @@
+Tester	Board			Size	Speed	Package		Freq	Vcore
+			
+tnt	OrangeCrab r0.1		25	8	CSFBGA285	23.34	1.103
+tnt	OrangeCrab r0.2		85	8	CSFBGA285	22.61	1.097
+tnt	Color Light 75B		25	6	CABGA381	24.15	1.121
+tnt	ULX3S "official"	12	6	CABGA381	22.37	1.102
+tnt	ULX3S "homemade"	85	8	CABGA381	23.75	1.108
+tnt	Lattice EVN-85F-5G	85	5G	CABGA381	24.95	1.211
