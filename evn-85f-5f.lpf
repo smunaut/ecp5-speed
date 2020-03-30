@@ -1,0 +1,2 @@
+# --um5g-85k --package CABGA381
+LOCATE COMP "clk_out" SITE "A8";
