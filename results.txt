@@ -6,3 +6,7 @@ tnt	Color Light 75B		25	6	CABGA381	24.15	1.121
 tnt	ULX3S "official"	12	6	CABGA381	22.37	1.102
 tnt	ULX3S "homemade"	85	8	CABGA381	23.75	1.108
 tnt	Lattice EVN-85F-5G	85	5G	CABGA381	24.95	1.211
+daveshah Versa 5G		45	5G	CABGA381	26.14	1.207
+daveshah Trellis Board		85	5G	CABGA756	26.77	1.203
+miek	OrangeCrab r0.1		25	8	CSFBGA285	23.12	1.103
+miek	OrangeCrab r0.1		25	8	CSFBGA285	23.66	1.110
