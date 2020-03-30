@@ -1,0 +1,2 @@
+# --85k --speed 8 --package CSFBGA285
+LOCATE COMP "clk_out" SITE "J2";

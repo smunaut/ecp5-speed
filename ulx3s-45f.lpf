@@ -1,0 +1,2 @@
+# --45k --speed 8 --package CABGA381
+LOCATE COMP "clk_out" SITE "E13";

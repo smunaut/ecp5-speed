@@ -1,0 +1,2 @@
+# --25k --speed 6 --package CABGA381
+LOCATE COMP "clk_out" SITE "B3";
